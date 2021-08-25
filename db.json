@@ -1,0 +1,24 @@
+{
+  "productos": [
+    {
+      "nombre": "Jugo de Anana",
+      "precio": "512",
+      "id": 2
+    },
+    {
+      "nombre": "papas al horno",
+      "precio": "600",
+      "id": 3
+    },
+    {
+      "nombre": "jugo de pera azul",
+      "precio": "1400",
+      "id": 5
+    },
+    {
+      "nombre": "jugo de frutilla",
+      "precio": 360,
+      "id": 6
+    }
+  ]
+}
